@@ -1,5 +1,5 @@
 node_modules/
-Outputs/
+
 .env
 .env.local
 .env.*.local
