@@ -1,13 +1,6 @@
 # Shop SQL + JS
-
-███████╗██╗  ██╗ ██████╗     ███████╗███████╗ ██████╗ ███████╗
-██╔════╝██║  ██║██╔═══██╗    ██╔════╝██╔════╝██╔═══██╗██╔════╝
-█████╗  ███████║██║   ██║    ███████╗█████╗  ██║   ██║███████╗
-██╔══╝  ██╔══██║██║   ██║    ╚════██║██╔══╝  ██║   ██║╚════██║
-██║     ██║  ██║╚██████╔╝    ███████║███████╗╚██████╔╝███████║
-╚═╝     ╚═╝  ╚═╝ ╚═════╝     ╚══════╝╚══════╝ ╚═════╝ ╚══════╝
-
-A minimal aesthetic README for your Shop SQL + JS experiment.
+# Built by
+Sudip Debnath
 
 **Features**
 - Lightweight Node.js scripts to manage a shop-like SQLite/SQL workflow.
@@ -42,4 +35,4 @@ node specific.js
 Feel free to open issues or create PRs. Keep changes focused and well-tested.
 
 ---
-_*Made with a little ASCII flair.*_
+
